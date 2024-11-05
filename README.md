@@ -2,4 +2,4 @@
 - 👨‍💻 I'm currently a senior data engineer @ McKinsey & Company
 - 👀 I’m interested in data and software engineering topics, AI/ML/data science, and using code to make my life easier and more automated
 - 🌱 I’m currently learning about data structures and algorithms, agentic frameworks, and JavaScript!
-- 📫 How to reach me: r.weidinger11@gmail.com or on LinkedIn: linkedin.com/in/ryan-weidinger/
+- 📫 How to reach me: r.weidinger11@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ryan-weidinger/)
